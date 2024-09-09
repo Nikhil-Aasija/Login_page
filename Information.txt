@@ -1,0 +1,2 @@
+Username: Nikhil, Email: nikhil@example.com, Password: 123456
+Username: Miransh, Email: miranshi@baby.com, Password: miranshidevi
